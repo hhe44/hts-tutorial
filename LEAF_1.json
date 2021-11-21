@@ -1,0 +1,10 @@
+{
+    "name": "LEAF_1",
+    "description": "it's a frickin leaf ffs",
+    "image":  "QmXGiac9qux5DEkpTjQMQavWDgQcugVfDXgKPNKZBsRz1t",
+    "properties" : {
+        "fileType": "jpeg",
+        "colors": "red,black",
+        "resolution": "low"
+    }
+}

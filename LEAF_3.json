@@ -1,0 +1,10 @@
+{
+    "name": "LEAF_3",
+    "description": "well... this is different.",
+    "image":  "QmYRq5WZhRg3ybRwWGU3yejWspRAk9uQWmrdzWqe6VU3s8",
+    "properties" : {
+        "fileType": "jpeg",
+        "colors": "brown,white",
+        "resolution": "low"
+    }
+}

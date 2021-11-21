@@ -1,0 +1,10 @@
+{
+    "name": "LEAF_2",
+    "description": "it's a frickin leaf for god's sake",
+    "image":  "QmWUYGZmCUys2qRsJZLYhJ49Jr7JRczJVHohJic6yCBp7Q",
+    "properties" : {
+        "fileType": "jpeg",
+        "colors": "red,white",
+        "resolution": "low"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "LEAF_4",
+    "description": "some idiot holding a leaf I guess",
+    "image":  "QmXtdwHSu14mNCvzVdCUJnnVrW2jXQfV6cZ65QEYt7Kxzb",
+    "properties" : {
+        "fileType": "jpeg",
+        "colors": "brown,blue",
+        "resolution": "high"
+    }
+}
